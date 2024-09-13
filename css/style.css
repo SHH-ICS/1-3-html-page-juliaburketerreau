@@ -1,0 +1,21 @@
+#my-header {
+  background-color: rgb (102, 205, 170);
+  color: hsl (350, 100%, 88%);
+  padding: 40px;
+  text-align: center;
+}
+body {background-color:blueviolet;}
+p {background-color:#ffffff;}
+
+#myheader {
+  background-color: aquamarine;
+  color: blanchedalmond;
+  padding: 10px;
+  text-align: center;
+}
+.city {
+  background-color: tan;
+  color: plum;
+  padding: 10px;
+}
+body {background-color: goldenrod;}
